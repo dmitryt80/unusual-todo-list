@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unusual-todo-list/static/css/main.4b27cb09.css",
+    "main.js": "/unusual-todo-list/static/js/main.526868be.js",
+    "index.html": "/unusual-todo-list/index.html",
+    "main.4b27cb09.css.map": "/unusual-todo-list/static/css/main.4b27cb09.css.map",
+    "main.526868be.js.map": "/unusual-todo-list/static/js/main.526868be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b27cb09.css",
+    "static/js/main.526868be.js"
+  ]
+}
